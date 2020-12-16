@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/FrazileDevelopers">
  <img align="center" img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrazileDevelopers&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
+
+[![FrazileDeveloper github stats](https://github-readme-stats.vercel.app/api?username=FrazileDevelopers)](https://github.com/FrazileDevelopers/github-readme-stats)
