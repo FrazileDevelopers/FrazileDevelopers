@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **coffee**
 
 
+[![FrazileDeveloper github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FrazileDevelopers&theme=dark&hide_langs_below=1)](https://github.com/FrazileDevelopers/github-readme-stats)
 
-<a href="https://github.com/FrazileDevelopers">
-  <img align="center"img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrazileDevelopers&theme=dark&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/FrazileDevelopers">
  <img align="center" img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrazileDevelopers&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
-
-[![FrazileDeveloper github stats](https://github-readme-stats.vercel.app/api?username=FrazileDevelopers)](https://github.com/FrazileDevelopers/github-readme-stats)
